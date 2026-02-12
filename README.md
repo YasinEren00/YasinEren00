@@ -1,17 +1,15 @@
 ## Hi there 👋
 
-<!--
-**YasinEren00/YasinEren00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Merhaba 👋 Ben Yasin Eren</h1>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Yazılım+Geliştiriciyim;C%23+%7C+.NET+%7C+WPF;Kendimi+Geliştiriyorum" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![snake gif](https://github.com/YasinEren00/YasinEren00/blob/output/github-contribution-grid-snake.gif)
+---
+
+### 👀 Profil Ziyaretçi Sayısı
+![Profile Views](https://komarev.com/ghpvc/?username=YasinEren00&color=blue)
+
+---
+
+### 📊 GitHub İstatistiklerim
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight)
