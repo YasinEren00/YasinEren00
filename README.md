@@ -37,6 +37,13 @@
     <p>Visual Studio Code geliştirme paketi projesi. / VS Code development pack project.</p>
     <a href="https://github.com/YasinEren00/VSCodeDevPack"><b>[ Projeyi Görüntüle ]</b></a>
   </blockquote>
+
+   <blockquote>
+    <h4>🔹World Wonders Gallery </h4>
+    <p> HTML ile yapılmış basit bir Dünya Harikaları Galerisi / A simple Gallery of the Wonders of the World created with HTML.</p>
+    <a href="https://github.com/YasinEren00/WorldWondersGallery"><b>[ Projeyi Görüntüle ]</b></a>
+  </blockquote>
+  
   </details>
 
 ---
