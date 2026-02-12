@@ -1,33 +1,41 @@
 <div align="center">
 
 # Merhaba, Ben Yasin Eren! 👋
+# Hi, I'm Yasin Eren!
 
-<img src="https://hit.yhype.me/github/profile?user_id=YasinEren00&style=plastic&color=blue&label=Ziyaretçi+Sayısı" alt="Ziyaretçi Sayacı">
-
+<img src="https://count.getloli.com/get/@YasinEren00?theme=moebooru" alt="Ziyaretçi Sayacı" />
 <br />
-*Profilimi ziyaret edenlerin sayısı yukarıda dijital olarak sayılıyor!*
+<sub>Görüntülenme Sayısı / Profile Views</sub>
 
 ---
 
-### 💫 Hakkımda
-**Yazılım dünyasında kendimi geliştiren bir tutkuluyum.**
-
-💻 Projeler geliştiriyorum | 🚀 Yeni teknolojiler öğreniyorum | 📚 Deneyimlerimi paylaşıyorum
+## 🚀 YAZILIM GELİŞTİRİCİYİM, KENDİMİ GELİŞTİRİYORUM
+## 🚀 I'M A SOFTWARE DEVELOPER, IMPROVING MYSELF
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 💫 Hakkımda / About Me
+- 🇹🇷 Yazılım dünyasında kendimi geliştiren bir tutkuluyum.
+- 🇺🇸 I'm a passionate developer constantly improving myself in the software world.
+- 💻 **OOP (Object Oriented Programming)** prensiplerine hakimim.
+- 🛠️ **Android Studio** ve **Arduino** ile donanım/yazılım projeleri geliştiriyorum.
+
+---
+
+### 🛠️ Teknolojiler & Araçlar / Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode,linux,mysql,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,cs,py,androidstudio,arduino,vscode,mysql,git,github,dotnet" />
 </p>
 
+**Bildiğim Teknolojiler:**
+`HTML` | `CSS` | `Java` | `C#` | `Python` | `Android Studio` | `Arduino` | `OOP` | `VS Code` | `SQL`
+
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub İstatistikleri / Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&langs_count=7&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&langs_count=8&theme=tokyonight" height="180px" />
 </p>
 
 <p align="center">
@@ -36,7 +44,7 @@
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Bana Ulaşın / Contact Me
 <p align="center">
 <a href="https://linkedin.com/in/YasinEren00" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -46,14 +54,6 @@
 </a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+
 </div>
-
----
-
-### ⚡ Son Projelerim
-- 🛠️ **[Proje Adı 1](https://github.com/YasinEren00/proje-linki)** - Proje hakkında kısa açıklama.
-- 🚀 **[Proje Adı 2](https://github.com/YasinEren00/proje-linki)** - Proje hakkında kısa açıklama.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
