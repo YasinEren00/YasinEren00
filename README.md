@@ -30,7 +30,7 @@ Object Oriented Programming (OOP)
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=YasinEren00&color=blue" />
 </p>
 
 ---
@@ -38,9 +38,9 @@ Object Oriented Programming (OOP)
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&theme=tokyonight" />
 </p>
