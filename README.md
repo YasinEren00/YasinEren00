@@ -1,66 +1,55 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABS-CBN/star-react-starter/master/src/assets/logo.gif" width="40px"/> Merhaba | Hello <img src="https://raw.githubusercontent.com/ABS-CBN/star-react-starter/master/src/assets/logo.gif" width="40px"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Merhaba!+|+Hello!;Ben+Yasin+Eren;I'm+Yasin+Eren;Software+Developer" alt="Typing SVG" />
 
-## 👋 Ben Yasin Eren | I'm Yasin Eren 👋
-### Software Developer | Yazılım Geliştiricisi
+<h2 align="center">💻 YAZILIM GELİŞTİRİCİYİM | KENDİMİ GELİŞTİRİYORUM</h2>
+<h2 align="center">🚀 I'M A SOFTWARE DEVELOPER | IMPROVING MYSELF</h2>
 
-<img src="https://komarev.com/ghpvc/?username=YasinEren00&label=PROFIL%20GÖRENLER&color=blue&style=flat-square" alt="Ziyaretçi Sayacı" />
-<br>
-<sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=ZİYARETÇİ%20SAYISI&query=value&url=https://api.countapi.xyz/hit/YasinEren00/visits&color=blue" alt="Visitor Count">
 
+---
+
+### 💫 Hakkımda | About Me
 <p align="center">
-💻 Yazılım Geliştiriciyim | Kendimi Sürekli Geliştiriyorum <br>
-💻 I am a Software Developer | Improving Myself Every Day
+  💻 Yazılım dünyasında kendimi geliştiren bir tutkuluyum. <br>
+  🇺🇸 I'm a passionate developer constantly improving myself.
 </p>
 
 ---
 
-# 🚀 Featured Project | Öne Çıkan Projem
-
-## 🔹 [VSCodeDevPack](https://github.com/YasinEren00/VSCodeDevPack)
-
-Visual Studio Code için geliştirdiğim geliştirme paketi projesi. <br>
-*A development pack project created for Visual Studio Code.*
-
----
-
-# 🚀 Technologies & Skills | Teknolojiler & Yetenekler
-
+### 🛠️ Teknolojiler | Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,cs,py,androidstudio,vscode,arduino,mysql,git&theme=dark" />
 </p>
 
-**Core Competencies / Temel Yetkinlikler:**
-`OOP` | `Software Architecture` | `Desktop Dev` | `Android Dev` | `Embedded Systems`
+---
+
+### 🚀 Öne Çıkan Proje | Featured Project
+**[VSCodeDevPack](https://github.com/YasinEren00/VSCodeDevPack)**
+*Visual Studio Code geliştirme paketi projesi.*
 
 ---
 
-# 📌 About Me | Hakkımda
-
-* 💻 **Desktop & Software Development:** C#, Java ve Python ile masaüstü çözümleri.
-* 📱 **Android Development:** Android Studio kullanarak modern mobil uygulamalar.
-* ⚙️ **Arduino Projects:** Donanım ve yazılımın birleştiği robotik projeler.
-* 🎯 **Continuously Learning:** Sürekli öğrenme ve güncel kalma tutkusu.
-
----
-
-# 📊 GitHub Stats | İstatistikler
+### 📊 GitHub İstatistiklerim | Stats
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight" width="400px"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&theme=tokyonight" width="300px"></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight&count_private=true" alt="YasinEren00 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinEren00&theme=tokyonight" width="710px" />
 </p>
 
 ---
 
-# 📫 Contact Me | Bana Ulaşın
-
+### 📫 Bana Ulaşın | Contact Me
 <p align="center">
 <a href="https://linkedin.com/in/YasinEren00" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:yasineren@example.com">
+<a href="mailto:yasineren00@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
