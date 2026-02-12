@@ -4,7 +4,7 @@
 <h2 align="center">Ben Yasin Eren</h2>
 <h3 align="center">Software Developer</h3>
 
-<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=VISITORS&query=value&url=https://api.countapi.xyz/hit/YasinEren00/visits&color=007bff" alt="Visitor Count">
+<img src="https://komarev.com/ghpvc/?username=YasinEren00&label=PROFIL%20GÖRENLER&color=007bff&style=flat-square" alt="Ziyaretçi Sayacı" />
 <br>
 <sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
 
@@ -56,10 +56,10 @@ Visual Studio Code için geliştirdiğim geliştirme paketi projesi. <br>
 ## 📫 Contact Me | Bana Ulaşın
 
 <p align="center">
-<a href="https://linkedin.com/in/YasinEren00" target="blank">
+<a href="https://linkedin.com/in/YasinEren00" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:yasineren@example.com" target="blank">
+<a href="mailto:yasineren08@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
