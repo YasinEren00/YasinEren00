@@ -1,7 +1,6 @@
 <h1 align="center">👋 Merhaba | Hello 👋</h1>
 
-<h2 align="center">Ben Yasin Eren</h2>
-<h3 align="center">I'm Yasin Eren</h3>
+<h2 align="center">Ben Yasin Eren | I'm Yasin Eren</h2>
 
 <h3 align="center">
 💻 Yazılım Geliştiriciyim | Software Developer
@@ -10,6 +9,22 @@
 <p align="center">
 🚀 Kendimi Sürekli Geliştiriyorum <br>
 🚀 Improving Myself Every Day
+</p>
+
+---
+
+# 🚀 Featured Project | Öne Çıkan Projem
+
+<p align="center">
+<a href="https://github.com/YasinEren00/VSCodeDevPack">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YasinEren00&repo=VSCodeDevPack&theme=tokyonight&hide_border=true" />
+</a>
+</p>
+
+<p align="center">
+VS Code için geliştirdiğim geliştirme paketi projesi.
+<br>
+A development pack project created for Visual Studio Code.
 </p>
 
 ---
@@ -39,25 +54,6 @@ Object Oriented Programming (OOP)
 </p>
 
 ---
-
----
-
-# 🚀 Featured Projects | Öne Çıkan Projeler
-
-<p align="center">
-
-<a href="https://github.com/YasinEren00/VSCodeDev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YasinEren00&repo=VSCodeDevPack&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/YasinEren00/PROJE-ADI-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YasinEren00&repo=PROJE-ADI-2&theme=tokyonight" />
-</a>
-
-</p>
-
-
-
 
 ## 📊 GitHub Stats
 
