@@ -1,70 +1,53 @@
-<h1 align="center">👋 Merhaba | Hello 👋</h1>
+<div align="center">
 
-<h2 align="center">Ben Yasin Eren | I'm Yasin Eren</h2>
+# Merhaba, Ben Yasin Eren! 👋
 
-<h3 align="center">
-💻 Yazılım Geliştiriciyim | Software Developer
-</h3>
+![Ziyaretçi Sayacı](https://moe-counter.glitch.me/get/@YasinEren00?theme=r3-1t)
+<br />
+*Profilimi ziyaret eden değerli insan sayısı*
 
+---
+
+### 💫 Hakkımda
+**Yazılım dünyasında kendimi geliştiren bir tutkuluyum.**
+
+💻 Projeler geliştiriyorum | 🚀 Yeni teknolojiler öğreniyorum | 📚 Deneyimlerimi paylaşıyorum
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
 <p align="center">
-🚀 Kendimi Sürekli Geliştiriyorum <br>
-🚀 Improving Myself Every Day
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode,linux,mysql,postman,docker" />
 </p>
 
 ---
 
-# 🚀 Featured Project | Öne Çıkan Projem
-
+### 📊 GitHub İstatistiklerim
 <p align="center">
-<a href="https://github.com/YasinEren00/VSCodeDevPack">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YasinEren00&repo=VSCodeDevPack&theme=tokyonight&hide_border=true" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 <p align="center">
-VS Code için geliştirdiğim geliştirme paketi projesi.
-<br>
-A development pack project created for Visual Studio Code.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinEren00&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
+### 📫 Bana Ulaşın
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Software+Developer;Yazılım+Geliştiriciyim;HTML+%7C+CSS+%7C+Java;C%23+%7C+Python;Android+Studio+%7C+VS+Code;Arduino+Developer;Object+Oriented+Programming+(OOP)" />
+<a href="https://linkedin.com/in/KULLANICI_ADIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:E-POSTA_ADRESİN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
+
+</div>
 
 ---
 
-## 🚀 Technologies & Skills
+### ⚡ Son Projelerim
+- 🛠️ [Proje Adı 1](link) - Proje hakkında kısa açıklama.
+- 🚀 [Proje Adı 2](link) - Proje hakkında kısa açıklama.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,java,cs,python,androidstudio,vscode,arduino" />
-</p>
-
-<p align="center">
-Object Oriented Programming (OOP)
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YasinEren00&color=blue" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YasinEren00&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
