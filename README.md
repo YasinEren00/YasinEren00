@@ -40,6 +40,25 @@ Object Oriented Programming (OOP)
 
 ---
 
+---
+
+# 🚀 Featured Projects | Öne Çıkan Projeler
+
+<p align="center">
+
+<a href="https://github.com/YasinEren00/VSCodeDev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YasinEren00&repo=VSCodeDevPack&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/YasinEren00/PROJE-ADI-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YasinEren00&repo=PROJE-ADI-2&theme=tokyonight" />
+</a>
+
+</p>
+
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
