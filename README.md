@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Merhaba!+|+Hello!;Ben+Yasin+Eren;I'm+Yasin+Eren;Software+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Merhaba!+|+Hello!;Ben+Yasin+Eren;I'm+Yasin+Eren;Software+Developer" alt="Typing SVG" />
 
 <h2 align="center">💻 YAZILIM GELİŞTİRİCİYİM | KENDİMİ GELİŞTİRİYORUM</h2>
 <h2 align="center">🚀 I'M A SOFTWARE DEVELOPER | IMPROVING MYSELF</h2>
 
-<img src="https://komarev.com/ghpvc/?username=YasinEren00&label=ZİYARETÇİ%20SAYISI&color=blue&style=flat-square" alt="Ziyaretçi Sayacı" />
-<br>
+<img src="https://komarev.com/ghpvc/?username=YasinEren00&label=ZİYARETÇİ%20SAYISI&color=007bff&style=flat-square" alt="Ziyaretçi Sayacı" />
+<br />
 <sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
 
 ---
 
 ### 💫 Hakkımda | About Me
 <p align="center">
-  💻 Yazılım dünyasında kendimi geliştiren bir tutkuluyum. <br>
-  🇺🇸 I'm a passionate developer constantly improving myself.
+  <b>TR:</b> Yazılım dünyasında kendimi geliştiren bir tutkuluyum. OOP prensiplerine hakimim. <br>
+  <b>EN:</b> I'm a passionate developer constantly improving myself. Skilled in OOP.
 </p>
 
 ---
@@ -26,16 +26,35 @@
 
 ---
 
-### 🚀 Öne Çıkan Proje | Featured Project
-**[VSCodeDevPack](https://github.com/YasinEren00/VSCodeDevPack)**
-*Visual Studio Code geliştirme paketi projesi.*
+### 🚀 Projelerim | My Projects
+
+<details open>
+  <summary><b>📂 Proje Listesini Gör / View Projects</b></summary>
+  <br/>
+
+  <blockquote>
+    <h4>🔹 VSCodeDevPack</h4>
+    <p>Visual Studio Code geliştirme paketi projesi. / VS Code development pack project.</p>
+    <a href="https://github.com/YasinEren00/VSCodeDevPack"><b>[ Projeyi Görüntüle ]</b></a>
+  </blockquote>
+  </details>
 
 ---
 
 ### 📊 GitHub İstatistiklerim | Stats
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight&count_private=true" alt="Yasin Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinEren00&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
