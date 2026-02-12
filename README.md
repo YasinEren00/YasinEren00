@@ -1,10 +1,11 @@
 <div align="center">
 
-<h1 align="center">👋 Merhaba | Hello 👋</h1>
-<h2 align="center">Ben Yasin Eren</h2>
-<h3 align="center">Software Developer</h3>
+# <img src="https://raw.githubusercontent.com/ABS-CBN/star-react-starter/master/src/assets/logo.gif" width="40px"/> Merhaba | Hello <img src="https://raw.githubusercontent.com/ABS-CBN/star-react-starter/master/src/assets/logo.gif" width="40px"/>
 
-<img src="https://komarev.com/ghpvc/?username=YasinEren00&label=PROFIL%20GÖRENLER&color=007bff&style=flat-square" alt="Ziyaretçi Sayacı" />
+## 👋 Ben Yasin Eren | I'm Yasin Eren 👋
+### Software Developer | Yazılım Geliştiricisi
+
+<img src="https://komarev.com/ghpvc/?username=YasinEren00&label=PROFIL%20GÖRENLER&color=blue&style=flat-square" alt="Ziyaretçi Sayacı" />
 <br>
 <sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
 
@@ -24,7 +25,7 @@ Visual Studio Code için geliştirdiğim geliştirme paketi projesi. <br>
 
 ---
 
-## 🚀 Technologies & Skills | Teknolojiler & Yetenekler
+# 🚀 Technologies & Skills | Teknolojiler & Yetenekler
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,cs,py,androidstudio,vscode,arduino,mysql,git&theme=dark" />
@@ -35,7 +36,7 @@ Visual Studio Code için geliştirdiğim geliştirme paketi projesi. <br>
 
 ---
 
-## 📌 About Me | Hakkımda
+# 📌 About Me | Hakkımda
 
 * 💻 **Desktop & Software Development:** C#, Java ve Python ile masaüstü çözümleri.
 * 📱 **Android Development:** Android Studio kullanarak modern mobil uygulamalar.
@@ -44,22 +45,22 @@ Visual Studio Code için geliştirdiğim geliştirme paketi projesi. <br>
 
 ---
 
-## 📊 GitHub Stats | İstatistikler
+# 📊 GitHub Stats | İstatistikler
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight&count_private=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinEren00&show_icons=true&theme=tokyonight&count_private=true" alt="YasinEren00 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEren00&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Contact Me | Bana Ulaşın
+# 📫 Contact Me | Bana Ulaşın
 
 <p align="center">
 <a href="https://linkedin.com/in/YasinEren00" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:yasineren08@gmail.com">
+<a href="mailto:yasineren@example.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
