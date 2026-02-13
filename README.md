@@ -43,6 +43,12 @@
     <p> HTML ile yapılmış basit bir Dünya Harikaları Galerisi / A simple Gallery of the Wonders of the World created with HTML.</p>
     <a href="https://github.com/YasinEren00/WorldWondersGallery"><b>[ Projeyi Görüntüle ]</b></a>
   </blockquote>
+
+   <blockquote>
+    <h4>🔹Ethernet Control Panel </h4>
+    <p> Ethernet Kontrol Paneli / Ethernet Control Panel.</p>
+    <a href="https://github.com/YasinEren00/Ethernet-Control-Panel-Ethernet-Kontrol-Paneli"><b>[ Projeyi Görüntüle ]</b></a>
+  </blockquote>
   
   </details>
 
