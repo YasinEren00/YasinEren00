@@ -49,6 +49,12 @@
     <p> Ethernet Kontrol Paneli / Ethernet Control Panel.</p>
     <a href="https://github.com/YasinEren00/Ethernet-Control-Panel-Ethernet-Kontrol-Paneli"><b>[ Projeyi Görüntüle ]</b></a>
   </blockquote>
+
+   <blockquote>
+    <h4>🔹PC timer shutdown panel </h4>
+    <p> PC zamanlayıcı kapatma paneli / PC timer shutdown panel.</p>
+    <a href="https://github.com/YasinEren00/PC-zamanlay-c-kapatma-paneli"><b>[ Projeyi Görüntüle ]</b></a>
+  </blockquote>
   
   </details>
 
