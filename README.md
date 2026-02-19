@@ -5,7 +5,7 @@
 <h2 align="center">💻 YAZILIM GELİŞTİRİCİYİM | KENDİMİ GELİŞTİRİYORUM</h2>
 <h2 align="center">🚀 I'M A SOFTWARE DEVELOPER | IMPROVING MYSELF</h2>
 
-<img src="https://count.getloli.com/@YasinEren00?name=YasinEren00&theme=morden-num&padding=7&offset=5&align=top&scale=1&pixelated=1&darkmode=1&num=627&prefix=0" alt="Ziyaretçi Sayacı" />
+<img src="[https://count.getloli.com/@YasinEren00?name=YasinEren00&theme=morden-num&padding=7&offset=5&align=top&scale=1&pixelated=1&darkmode=1&num=627&prefix=0](https://count.getloli.com/@YasinEren00?name=YasinEren00&theme=morden-num&padding=7&offset=5&align=top&scale=1&pixelated=1&darkmode=1)" alt="Ziyaretçi Sayacı" />
 <br />
 <sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
 
