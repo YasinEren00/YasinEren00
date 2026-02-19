@@ -1,3 +1,9 @@
+<meta name="description" content="Visuastidiocode">
+<meta name="description" content="VScode">
+<meta name="keywords" content="python, github, proje">
+
+
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Merhaba!+|+Hello!;Ben+Yasin+Eren;I'm+Yasin+Eren;Software+Developer" alt="Typing SVG" />
