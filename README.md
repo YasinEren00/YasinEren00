@@ -6,7 +6,7 @@
 <h2 align="center">🚀 I'M A SOFTWARE DEVELOPER | IMPROVING MYSELF</h2>
 
 ---
-<img src= https://v1.pinimg.com/videos/mc/720p/33/e7/f0/33e7f004cb74d615fc68ad4c73bc650d.mp4 />
+<img src= https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif />
 <br />
 ---
 
