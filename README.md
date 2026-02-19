@@ -4,9 +4,8 @@
 
 <h2 align="center">💻 YAZILIM GELİŞTİRİCİYİM | KENDİMİ GELİŞTİRİYORUM</h2>
 <h2 align="center">🚀 I'M A SOFTWARE DEVELOPER | IMPROVING MYSELF</h2>
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" height="auto">
-<br />
 
+---
 
 <img src="https://count.getloli.com/@YasinEren00?name=YasinEren00&theme=morden-num&padding=7&offset=5&align=top&scale=1&pixelated=1&darkmode=1" alt="Ziyaretçi Sayacı" />
 <br />
@@ -63,6 +62,11 @@
   </blockquote>
   
   </details>
+
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" height="auto">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" height="auto">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" height="auto">
+
 
 ---
 
