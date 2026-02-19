@@ -10,7 +10,7 @@
 <sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
 
 ---
-![gif]([dosya_adi.gif](https://assets.pinterest.com/ext/embed.html?id=4996249583495665))
+![gif]([(https://assets.pinterest.com/ext/embed.html?id=4996249583495665)])
 ---
 
 ### 💫 Hakkımda | About Me
