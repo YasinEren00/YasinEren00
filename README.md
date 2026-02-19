@@ -10,7 +10,7 @@
 <sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
 
 ---
-<img src="https://i.pinimg.com/736x/62/da/b9/62dab99949299600dd3ae46f80ac2b8c.jpg">
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=4996249583495665" height="618" width="345" frameborder="0" scrolling="no" ></iframe>
 ---
 
 ### 💫 Hakkımda | About Me
