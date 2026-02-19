@@ -10,7 +10,8 @@
 <sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
 
 ---
-GİF
+<img src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmY2NTRnMWR3MDZsODRweHJhMHJ4OHhqbTJtOHphY3NsYjNxYzRzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif />
+<br />
 ---
 
 ### 💫 Hakkımda | About Me
