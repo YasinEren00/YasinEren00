@@ -10,7 +10,7 @@
 <sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
 
 ---
-<img src="https://s7.ezgif.com/tmp/ezgif-7a618b7e0ca558a0.gif></img>
+GİF
 ---
 
 ### 💫 Hakkımda | About Me
